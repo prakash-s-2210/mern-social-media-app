@@ -8,7 +8,7 @@ The backend API retrieves all the information from a MongoDB database, and the b
 ## Screenshot Video and Image
 
 
-https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/e7bf0793-58c6-442b-9720-f2c72fc91733
+![Social Media App](https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/e7bf0793-58c6-442b-9720-f2c72fc91733)
 ![MERN social media img](https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/2ce80f75-72a1-4921-b605-0da6a8bce923)
 
 
