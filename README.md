@@ -5,3 +5,10 @@ The friend list widget is updated automatically when a user adds or removes a fr
 On the profile page, users can view their information, friend list, and posts. They can also add a post from the profile page. The application also has the ability to switch between light mode and dark mode. The website is completely responsive, so users can access the exact same website from smaller screens with modifications for everything.
 The backend API retrieves all the information from a MongoDB database, and the backend is developed using the Express framework of Node.js. React is used as the front-end framework, with React Router for navigation, Formik and Yup for form and form validation, Redux Toolkit for state management, and Redux Persist to store Redux state in local storage. Dropzone is used for image upload, and Node.js is used for runtime on the backend. Mongoose is used for managing the MongoDB database, and Json Web Token is used for authentication. Multer is used for file upload.
  
+## Screenshot Video and Image
+
+
+https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/e7bf0793-58c6-442b-9720-f2c72fc91733
+![MERN social media img](https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/2ce80f75-72a1-4921-b605-0da6a8bce923)
+
+
